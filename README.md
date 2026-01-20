@@ -16,6 +16,6 @@
 ### 📊 GitHub Stats
 | My GitHub Stats | Top Languages |
 | :---: | :---: |
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[본인의GitHub아이디]&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[본인의GitHub아이디]&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elecharu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elecharu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
 
 ---
