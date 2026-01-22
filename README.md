@@ -14,8 +14,14 @@
 ---
 
 ### 📊 GitHub Stats
-| My GitHub Stats | Top Languages |
-| :---: | :---: |
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elecharu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elecharu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elecharu&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elecharu&layout=compact&theme=radical" />
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/elecharu?template=classic&base=0&habits=1&habits_from=200&habits_days=14&habits_charts=0&config_timezone=Asia/Seoul" />
+</p>
