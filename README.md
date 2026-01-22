@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=elecharu&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=elecharu&show_icons=true&theme=radical" width="400" height="200"/>
 
 ---
 
